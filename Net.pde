@@ -16,7 +16,7 @@ void setup () {
 void draw () {
   background(255);
 
-  updateDots();
+  // updateDots();
   renderDots();
 }
 
